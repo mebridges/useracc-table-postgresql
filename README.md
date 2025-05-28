@@ -32,4 +32,4 @@ The `useracc` table is intended for managing user accounts within an internal sy
 
    **Using command line:**
    ```bash
-   psql -U your_username -d your_database -f .sql
+   psql -U your_username -d your_database -f createUSERACCtable.sql

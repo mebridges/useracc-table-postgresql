@@ -8,5 +8,3 @@ CREATE TABLE USERACC (
     email TEXT UNIQUE NOT NULL,
     pwd TEXT NOT NULL
 );
-
-select * from USERACC;

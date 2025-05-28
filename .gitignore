@@ -1,0 +1,11 @@
+# Ignore log files
+*.log
+
+# Ignore database dumps
+*.sql~
+
+# Ignore secrets
+.env
+
+# Ignore editor settings
+.vscode/
